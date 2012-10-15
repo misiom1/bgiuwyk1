@@ -1,0 +1,2 @@
+serviceClass: com.example.remotetest.client.CalcService
+path: DE4B6C3B8797731D520483E48D118E55.gwt.rpc
